@@ -5,3 +5,7 @@ function foo(){
 function bar() {
     console.log('hello bar')
 }
+
+function baz(){
+    
+}
